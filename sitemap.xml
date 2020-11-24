@@ -2,97 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://alianabertolo.com/index.html</loc>
-    <lastmod>2020-11-05</lastmod>
+    <lastmod>2020-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://alianabertolo.com/images/logo%20200x20-01.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://alianabertolo.com/info---cv.html</loc>
-    <lastmod>2020-11-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://alianabertolo.com/images/logo%20200x20-01.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://alianabertolo.com/images/aliana%20bertolo%20yellow%20circle.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://alianabertolo.com/projects.html</loc>
-    <lastmod>2020-11-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://alianabertolo.com/images/logo%20200x20-01.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://alianabertolo.com/unodois.html</loc>
-    <lastmod>2020-11-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://alianabertolo.com/images/logo%20200x20-01.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://alianabertolo.com/images/un%20dois%20logo-crop-u32697.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://alianabertolo.com/images/arrow%20up%202-03.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://alianabertolo.com/images/un%20dois%20logo-crop-u326972.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://alianabertolo.com/images/un%20dois%20logo-crop-u326973.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://alianabertolo.com/images/un%20dois%20logo-crop-u326974.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://alianabertolo.com/coobler.html</loc>
-    <lastmod>2020-11-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://alianabertolo.com/images/logo%20200x20-01.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://alianabertolo.com/images/arrow%20up%202-03.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://alianabertolo.com/images/coobler%20poster%20mockup.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://alianabertolo.com/images/3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://alianabertolo.com/images/3332x420.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://alianabertolo.com/images/coobler%20poster%20mockup440x312.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://alianabertolo.com/images/3291x368.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://alianabertolo.com/images/coobler%20poster%20mockup-crop-u29227.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://alianabertolo.com/images/coobler%20poster%20mockup-crop-u32476.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://alianabertolo.com/images/3281x356.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://alianabertolo.com/hexaponics.html</loc>
-    <lastmod>2020-11-05</lastmod>
+    <lastmod>2020-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -148,23 +67,53 @@
     </image:image>
   </url>
   <url>
-    <loc>http://alianabertolo.com/in-bloom.html</loc>
-    <lastmod>2020-11-05</lastmod>
+    <loc>http://alianabertolo.com/info---cv.html</loc>
+    <lastmod>2020-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://alianabertolo.com/images/logo%20200x20-01.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://alianabertolo.com/images/arrow%20up%202-03.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://alianabertolo.com/images/in%20bloom.jpg</image:loc>
+      <image:loc>http://alianabertolo.com/images/aliana%20bertolo%20yellow%20circle.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://alianabertolo.com/projects-joint-it.html</loc>
-    <lastmod>2020-11-05</lastmod>
+    <loc>http://alianabertolo.com/projects.html</loc>
+    <lastmod>2020-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://alianabertolo.com/images/logo%20200x20-01.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://alianabertolo.com/unodois.html</loc>
+    <lastmod>2020-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://alianabertolo.com/images/logo%20200x20-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://alianabertolo.com/images/un%20dois%20logo-crop-u32697.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://alianabertolo.com/images/arrow%20up%202-03.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://alianabertolo.com/images/un%20dois%20logo-crop-u326972.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://alianabertolo.com/images/un%20dois%20logo-crop-u326973.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://alianabertolo.com/images/un%20dois%20logo-crop-u326974.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://alianabertolo.com/coobler.html</loc>
+    <lastmod>2020-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -172,11 +121,35 @@
     </image:image>
     <image:image>
       <image:loc>http://alianabertolo.com/images/arrow%20up%202-03.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://alianabertolo.com/images/coobler%20poster%20mockup.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://alianabertolo.com/images/3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://alianabertolo.com/images/3332x420.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://alianabertolo.com/images/coobler%20poster%20mockup440x312.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://alianabertolo.com/images/3291x368.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://alianabertolo.com/images/coobler%20poster%20mockup-crop-u29227.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://alianabertolo.com/images/coobler%20poster%20mockup-crop-u32476.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://alianabertolo.com/images/3281x356.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://alianabertolo.com/multicultural-memento.html</loc>
-    <lastmod>2020-11-05</lastmod>
+    <lastmod>2020-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -274,8 +247,44 @@
     </image:image>
   </url>
   <url>
-    <loc>http://alianabertolo.com/tiny-houses-enthusiasts.html</loc>
+    <loc>http://alianabertolo.com/in-bloom.html</loc>
+    <lastmod>2020-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://alianabertolo.com/images/logo%20200x20-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://alianabertolo.com/images/arrow%20up%202-03.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://alianabertolo.com/images/in%20bloom.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://alianabertolo.com/projects-joint-it.html</loc>
+    <lastmod>2020-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://alianabertolo.com/images/logo%20200x20-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://alianabertolo.com/images/arrow%20up%202-03.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://alianabertolo.com/dyka-article.html</loc>
     <lastmod>2020-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://alianabertolo.com/images/screenshot%202020-11-05%20at%20223715490x694.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://alianabertolo.com/tiny-houses-enthusiasts.html</loc>
+    <lastmod>2020-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -304,17 +313,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://alianabertolo.com/dyka-article.html</loc>
-    <lastmod>2020-11-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://alianabertolo.com/images/screenshot%202020-11-05%20at%20223715490x694.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://alianabertolo.com/data-visualization.html</loc>
-    <lastmod>2020-11-05</lastmod>
+    <lastmod>2020-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -323,5 +323,11 @@
     <image:image>
       <image:loc>http://alianabertolo.com/images/arrow%20up%202-03.png</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://alianabertolo.com/assets/social-sharing-alianabertolo.jpg</loc>
+    <lastmod>2020-11-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

@@ -1,31 +1,34 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alianabertolo.com" resolutions="1x" timestamp="1604614466831">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alianabertolo.com" resolutions="1x" timestamp="1605217649542">
+  <folder name="assets">
+    <file name="social-sharing-alianabertolo.jpg" crc="211827865" seo="true" mt="1605129087000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="125189226"/>
-    <file name="master_a-master.css" crc="406872113" ref="multicultural-memento:hexaponics:projects:data-visualization:in-bloom:unodois:index:tiny-houses-enthusiasts:projects-joint-it:coobler:info---cv"/>
+    <file name="master_a-master.css" crc="150501933" ref="multicultural-memento:hexaponics:projects:data-visualization:in-bloom:unodois:index:tiny-houses-enthusiasts:projects-joint-it:coobler:info---cv"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="multicultural-memento:hexaponics:projects:data-visualization:in-bloom:unodois:index:tiny-houses-enthusiasts:projects-joint-it:coobler:info---cv"/>
     <file name="dyka-article.css" crc="183287042" ref="dyka-article"/>
-    <file name="multicultural-memento.css" crc="225932395" ref="multicultural-memento"/>
-    <file name="nomq_multicultural-memento.css" crc="199504127" ref="multicultural-memento"/>
-    <file name="hexaponics.css" crc="21162012" ref="hexaponics"/>
-    <file name="nomq_hexaponics.css" crc="30193391" ref="hexaponics"/>
-    <file name="projects.css" crc="489222827" ref="projects"/>
-    <file name="nomq_projects.css" crc="392172848" ref="projects"/>
-    <file name="data-visualization.css" crc="4219400455" ref="data-visualization"/>
-    <file name="nomq_data-visualization.css" crc="4114292801" ref="data-visualization"/>
-    <file name="in-bloom.css" crc="238379193" ref="in-bloom"/>
-    <file name="nomq_in-bloom.css" crc="425797044" ref="in-bloom"/>
-    <file name="unodois.css" crc="303018849" ref="unodois"/>
-    <file name="nomq_unodois.css" crc="145477173" ref="unodois"/>
-    <file name="index.css" crc="3996186236" ref="index"/>
-    <file name="nomq_index.css" crc="3877080638" ref="index"/>
-    <file name="tiny-houses-enthusiasts.css" crc="528371630" ref="tiny-houses-enthusiasts"/>
-    <file name="nomq_tiny-houses-enthusiasts.css" crc="129633323" ref="tiny-houses-enthusiasts"/>
-    <file name="projects-joint-it.css" crc="125501883" ref="projects-joint-it"/>
-    <file name="nomq_projects-joint-it.css" crc="3774836872" ref="projects-joint-it"/>
-    <file name="coobler.css" crc="266884371" ref="coobler"/>
-    <file name="nomq_coobler.css" crc="4216984207" ref="coobler"/>
-    <file name="info---cv.css" crc="390790442" ref="info---cv"/>
-    <file name="nomq_info---cv.css" crc="3969821002" ref="info---cv"/>
+    <file name="multicultural-memento.css" crc="3891161329" ref="multicultural-memento"/>
+    <file name="nomq_multicultural-memento.css" crc="379696651" ref="multicultural-memento"/>
+    <file name="hexaponics.css" crc="4033141195" ref="hexaponics"/>
+    <file name="nomq_hexaponics.css" crc="7584557" ref="hexaponics"/>
+    <file name="projects.css" crc="4056728750" ref="projects"/>
+    <file name="nomq_projects.css" crc="4034873898" ref="projects"/>
+    <file name="data-visualization.css" crc="4016989597" ref="data-visualization"/>
+    <file name="nomq_data-visualization.css" crc="341770835" ref="data-visualization"/>
+    <file name="in-bloom.css" crc="3892687185" ref="in-bloom"/>
+    <file name="nomq_in-bloom.css" crc="3772888654" ref="in-bloom"/>
+    <file name="unodois.css" crc="226001196" ref="unodois"/>
+    <file name="nomq_unodois.css" crc="534517557" ref="unodois"/>
+    <file name="index.css" crc="259871107" ref="index"/>
+    <file name="nomq_index.css" crc="4012637005" ref="index"/>
+    <file name="tiny-houses-enthusiasts.css" crc="423446412" ref="tiny-houses-enthusiasts"/>
+    <file name="nomq_tiny-houses-enthusiasts.css" crc="293976965" ref="tiny-houses-enthusiasts"/>
+    <file name="projects-joint-it.css" crc="480190832" ref="projects-joint-it"/>
+    <file name="nomq_projects-joint-it.css" crc="425328818" ref="projects-joint-it"/>
+    <file name="coobler.css" crc="4214629990" ref="coobler"/>
+    <file name="nomq_coobler.css" crc="204393907" ref="coobler"/>
+    <file name="info---cv.css" crc="3919021488" ref="info---cv"/>
+    <file name="nomq_info---cv.css" crc="3897061844" ref="info---cv"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:info---cv:projects:unodois:coobler:hexaponics:in-bloom:projects-joint-it:multicultural-memento:tiny-houses-enthusiasts:dyka-article:data-visualization"/>
@@ -44,49 +47,49 @@
   <folder name="images">
     <file name="favicon.ico" crc="193457909" ref="index"/>
     <file name="logo 200x20-01.png" crc="4050432922" seo="true" ref="index:info---cv:projects:unodois:coobler:hexaponics:in-bloom:projects-joint-it:multicultural-memento:tiny-houses-enthusiasts:data-visualization">
-      <caption webpage="coobler" alt=""/>
-      <caption webpage="coobler" alt=""/>
-      <caption webpage="coobler" alt=""/>
-      <caption webpage="coobler" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="multicultural-memento" alt=""/>
-      <caption webpage="multicultural-memento" alt=""/>
-      <caption webpage="multicultural-memento" alt=""/>
-      <caption webpage="multicultural-memento" alt=""/>
-      <caption webpage="hexaponics" alt=""/>
-      <caption webpage="hexaponics" alt=""/>
-      <caption webpage="hexaponics" alt=""/>
-      <caption webpage="hexaponics" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="in-bloom" alt=""/>
-      <caption webpage="in-bloom" alt=""/>
-      <caption webpage="in-bloom" alt=""/>
-      <caption webpage="in-bloom" alt=""/>
-      <caption webpage="data-visualization" alt=""/>
-      <caption webpage="data-visualization" alt=""/>
-      <caption webpage="data-visualization" alt=""/>
-      <caption webpage="data-visualization" alt=""/>
-      <caption webpage="tiny-houses-enthusiasts" alt=""/>
-      <caption webpage="tiny-houses-enthusiasts" alt=""/>
-      <caption webpage="tiny-houses-enthusiasts" alt=""/>
-      <caption webpage="tiny-houses-enthusiasts" alt=""/>
-      <caption webpage="unodois" alt=""/>
-      <caption webpage="unodois" alt=""/>
-      <caption webpage="unodois" alt=""/>
-      <caption webpage="unodois" alt=""/>
       <caption webpage="projects-joint-it" alt=""/>
       <caption webpage="projects-joint-it" alt=""/>
       <caption webpage="projects-joint-it" alt=""/>
       <caption webpage="projects-joint-it" alt=""/>
+      <caption webpage="data-visualization" alt=""/>
+      <caption webpage="data-visualization" alt=""/>
+      <caption webpage="data-visualization" alt=""/>
+      <caption webpage="data-visualization" alt=""/>
+      <caption webpage="multicultural-memento" alt=""/>
+      <caption webpage="multicultural-memento" alt=""/>
+      <caption webpage="multicultural-memento" alt=""/>
+      <caption webpage="multicultural-memento" alt=""/>
       <caption webpage="info---cv" alt=""/>
       <caption webpage="info---cv" alt=""/>
       <caption webpage="info---cv" alt=""/>
       <caption webpage="info---cv" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="tiny-houses-enthusiasts" alt=""/>
+      <caption webpage="tiny-houses-enthusiasts" alt=""/>
+      <caption webpage="tiny-houses-enthusiasts" alt=""/>
+      <caption webpage="tiny-houses-enthusiasts" alt=""/>
+      <caption webpage="hexaponics" alt=""/>
+      <caption webpage="hexaponics" alt=""/>
+      <caption webpage="hexaponics" alt=""/>
+      <caption webpage="hexaponics" alt=""/>
+      <caption webpage="in-bloom" alt=""/>
+      <caption webpage="in-bloom" alt=""/>
+      <caption webpage="in-bloom" alt=""/>
+      <caption webpage="in-bloom" alt=""/>
+      <caption webpage="coobler" alt=""/>
+      <caption webpage="coobler" alt=""/>
+      <caption webpage="coobler" alt=""/>
+      <caption webpage="coobler" alt=""/>
+      <caption webpage="unodois" alt=""/>
+      <caption webpage="unodois" alt=""/>
+      <caption webpage="unodois" alt=""/>
+      <caption webpage="unodois" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:info---cv:projects:unodois:coobler:hexaponics:in-bloom:projects-joint-it:multicultural-memento:tiny-houses-enthusiasts:data-visualization"/>
     <file name="aliana bertolo yellow circle.png" crc="346064172" seo="true" ref="info---cv">
@@ -153,14 +156,14 @@
     <file name="projects_jointit-u30886-fr3.png" crc="4239208448" ref="projects"/>
     <file name="projects_in bloom 2-u30898-fr3.jpg" crc="271064424" ref="projects"/>
     <file name="projects_coobler 2-u30904-fr3.png" crc="4206655234" ref="projects"/>
-    <file name="projects_multicultural memento-u30868-fr4.jpg" crc="349942204" ref="projects"/>
-    <file name="projects_data visualization-u30874-fr4.jpg" crc="70354432" ref="projects"/>
-    <file name="projects_we smell the rain-u30916-fr3.jpg" crc="221635302" ref="projects"/>
-    <file name="projects_un dois 2-u30880-fr4.jpg" crc="4013002866" ref="projects"/>
-    <file name="projects_jointit-u30886-fr4.png" crc="4055244721" ref="projects"/>
-    <file name="projects_in bloom 2-u30898-fr4.jpg" crc="171515435" ref="projects"/>
-    <file name="projects_coobler 2-u30904-fr4.png" crc="4110605864" ref="projects"/>
-    <file name=" projects_tiny houses 2-u30910-fr4.jpg" crc="86060488" ref="projects"/>
+    <file name="projects_multicultural memento-u30868-fr4.jpg" crc="32888666" ref="projects"/>
+    <file name="projects_data visualization-u30874-fr4.jpg" crc="368374496" ref="projects"/>
+    <file name="projects_we smell the rain-u30916-fr3.jpg" crc="4252364494" ref="projects"/>
+    <file name="projects_un dois 2-u30880-fr4.jpg" crc="4143969109" ref="projects"/>
+    <file name="projects_jointit-u30886-fr4.png" crc="317162630" ref="projects"/>
+    <file name="projects_in bloom 2-u30898-fr4.jpg" crc="3811356947" ref="projects"/>
+    <file name="projects_coobler 2-u30904-fr4.png" crc="4049261517" ref="projects"/>
+    <file name=" projects_tiny houses 2-u30910-fr4.jpg" crc="4245128354" ref="projects"/>
     <file name="un dois logo-crop-u32697.jpg" crc="3789911660" seo="true" ref="unodois">
       <caption webpage="unodois" alt=""/>
     </file>
@@ -183,26 +186,22 @@
       <caption webpage="unodois" alt=""/>
     </file>
     <file name="arrow up 2-03.png" crc="3844259536" seo="true" ref="unodois:coobler:hexaponics:in-bloom:projects-joint-it:multicultural-memento:tiny-houses-enthusiasts:data-visualization">
-      <caption webpage="in-bloom" alt=""/>
-      <caption webpage="in-bloom" alt=""/>
-      <caption webpage="in-bloom" alt=""/>
-      <caption webpage="in-bloom" alt=""/>
-      <caption webpage="multicultural-memento" alt=""/>
-      <caption webpage="multicultural-memento" alt=""/>
-      <caption webpage="multicultural-memento" alt=""/>
-      <caption webpage="multicultural-memento" alt=""/>
       <caption webpage="hexaponics" alt=""/>
       <caption webpage="hexaponics" alt=""/>
       <caption webpage="hexaponics" alt=""/>
       <caption webpage="hexaponics" alt=""/>
-      <caption webpage="coobler" alt=""/>
-      <caption webpage="coobler" alt=""/>
-      <caption webpage="coobler" alt=""/>
-      <caption webpage="coobler" alt=""/>
+      <caption webpage="projects-joint-it" alt=""/>
+      <caption webpage="projects-joint-it" alt=""/>
+      <caption webpage="projects-joint-it" alt=""/>
+      <caption webpage="projects-joint-it" alt=""/>
       <caption webpage="data-visualization" alt=""/>
       <caption webpage="data-visualization" alt=""/>
       <caption webpage="data-visualization" alt=""/>
       <caption webpage="data-visualization" alt=""/>
+      <caption webpage="multicultural-memento" alt=""/>
+      <caption webpage="multicultural-memento" alt=""/>
+      <caption webpage="multicultural-memento" alt=""/>
+      <caption webpage="multicultural-memento" alt=""/>
       <caption webpage="tiny-houses-enthusiasts" alt=""/>
       <caption webpage="tiny-houses-enthusiasts" alt=""/>
       <caption webpage="tiny-houses-enthusiasts" alt=""/>
@@ -211,10 +210,14 @@
       <caption webpage="unodois" alt=""/>
       <caption webpage="unodois" alt=""/>
       <caption webpage="unodois" alt=""/>
-      <caption webpage="projects-joint-it" alt=""/>
-      <caption webpage="projects-joint-it" alt=""/>
-      <caption webpage="projects-joint-it" alt=""/>
-      <caption webpage="projects-joint-it" alt=""/>
+      <caption webpage="in-bloom" alt=""/>
+      <caption webpage="in-bloom" alt=""/>
+      <caption webpage="in-bloom" alt=""/>
+      <caption webpage="in-bloom" alt=""/>
+      <caption webpage="coobler" alt=""/>
+      <caption webpage="coobler" alt=""/>
+      <caption webpage="coobler" alt=""/>
+      <caption webpage="coobler" alt=""/>
     </file>
     <file name="un dois logo-crop-u326972.jpg" crc="4047884360" seo="true" ref="unodois">
       <caption webpage="unodois" alt=""/>
@@ -638,16 +641,16 @@
     <file name="the big 5-u30582-fr2.jpg" crc="4066747098" ref="data-visualization"/>
     <file name="solar beer 3-u30562-fr2.jpg" crc="142804041" ref="data-visualization"/>
   </folder>
-  <file name="index.html" crc="4173586179" seo="true" mt="1604610081188" redirect="true"/>
-  <file name="info---cv.html" crc="407338974" seo="true" mt="1604610081188" redirect="true"/>
-  <file name="projects.html" crc="4237962243" seo="true" mt="1604611224323" redirect="true"/>
-  <file name="unodois.html" crc="63339354" seo="true" mt="1604610081188" redirect="true"/>
-  <file name="coobler.html" crc="49431680" seo="true" mt="1604610081188" redirect="true"/>
-  <file name="hexaponics.html" crc="79960542" seo="true" mt="1604614360848" redirect="true"/>
-  <file name="in-bloom.html" crc="469453794" seo="true" mt="1604610081188" redirect="true"/>
-  <file name="projects-joint-it.html" crc="83388717" seo="true" mt="1604611749887" redirect="true"/>
-  <file name="multicultural-memento.html" crc="4214957486" seo="true" mt="1604613386845" redirect="true"/>
-  <file name="tiny-houses-enthusiasts.html" crc="263203732" seo="true" mt="1604612440056" redirect="true"/>
+  <file name="index.html" crc="4274474197" seo="true" mt="1605217409183" redirect="true"/>
+  <file name="info---cv.html" crc="4160291185" seo="true" mt="1605217409183" redirect="true"/>
+  <file name="projects.html" crc="3839542635" seo="true" mt="1605217409183" redirect="true"/>
+  <file name="unodois.html" crc="4159047791" seo="true" mt="1605217409183" redirect="true"/>
+  <file name="coobler.html" crc="4029289204" seo="true" mt="1605217409183" redirect="true"/>
+  <file name="hexaponics.html" crc="4033452555" seo="true" mt="1605217409183" redirect="true"/>
+  <file name="in-bloom.html" crc="3763855043" seo="true" mt="1605217409183" redirect="true"/>
+  <file name="projects-joint-it.html" crc="117275838" seo="true" mt="1605217409183" redirect="true"/>
+  <file name="multicultural-memento.html" crc="192820092" seo="true" mt="1605217409183" redirect="true"/>
+  <file name="tiny-houses-enthusiasts.html" crc="252886484" seo="true" mt="1605217409183" redirect="true"/>
   <file name="dyka-article.html" crc="251745517" seo="true" mt="1604612339537" redirect="true"/>
-  <file name="data-visualization.html" crc="365481481" seo="true" mt="1604614418924" redirect="true"/>
+  <file name="data-visualization.html" crc="4287906800" seo="true" mt="1605217409183" redirect="true"/>
 </manifest>
