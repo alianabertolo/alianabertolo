@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alianabertolo.com" resolutions="1x" timestamp="1609887747223">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alianabertolo.com" resolutions="1x" timestamp="1609888360089">
   <folder name="css">
     <file name="site_global.css" crc="25059682"/>
     <file name="master_a-master.css" crc="19679796" ref="in-bloom:multicultural-memento:coobler:projects:data-visualization:index:unodois:info---cv:tiny-houses-enthusiasts:hexaponics:projects-joint-it"/>
